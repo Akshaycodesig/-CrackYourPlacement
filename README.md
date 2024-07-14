@@ -7,4 +7,4 @@ DAY-1 :
 2) Two Sum
 3) Move Zeros
 4) Best Time to Buy and Sell Stock
-
+5) Majority Element
