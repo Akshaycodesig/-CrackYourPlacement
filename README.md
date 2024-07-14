@@ -3,4 +3,7 @@
 
 DAY-1 :
 
-Remove Duplicates from Sorted Array
+1) Remove Duplicates from Sorted Array
+2) Two Sum
+
+
