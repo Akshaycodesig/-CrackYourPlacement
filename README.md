@@ -3,4 +3,4 @@
 
 DAY-1 :
 
-26. Remove Duplicates from Sorted Array
+Remove Duplicates from Sorted Array
