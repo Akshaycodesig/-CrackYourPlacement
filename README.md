@@ -13,4 +13,4 @@ DAY-1 :
 DAY-2 :
 
 1) Print all the duplicate characters in a string
-2) 
+2) Valid Paranthesis
