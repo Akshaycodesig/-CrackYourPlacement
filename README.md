@@ -15,3 +15,4 @@ DAY-2 :
 1) Print all the duplicate characters in a string
 2) Valid Paranthesis
 3) Find the Index of the First Occurrence in a String
+4) Valid Palindrome
