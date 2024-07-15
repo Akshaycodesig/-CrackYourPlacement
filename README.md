@@ -9,3 +9,8 @@ DAY-1 :
 4) Best Time to Buy and Sell Stock
 5) Majority Element
 6) Container With Most Water
+
+DAY-2 :
+
+1) Print all the duplicate characters in a string
+2) 
