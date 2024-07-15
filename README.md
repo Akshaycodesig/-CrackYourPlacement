@@ -16,3 +16,4 @@ DAY-2 :
 2) Valid Paranthesis
 3) Find the Index of the First Occurrence in a String
 4) Valid Palindrome
+5) Chocolate Distribution Problem
